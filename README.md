@@ -12,12 +12,11 @@ I like photography, and making MIDI music for piano as well.
 
 我也喜欢摄影和制作MIDI钢琴曲。
 
----
-
 ## Main Projects \| 主要项目
 
-### [MIDIs](https://github.com/GarthTB/Piano-MIDI)
+### MIDIs
 
+- [所有钢琴MIDI](https://github.com/GarthTB/Piano-MIDI)
 - [批量预处理钢琴MIDI](https://github.com/GarthTB/TrimMIDI)
 
 ### NLP & IME \| 自然语言处理与输入法
