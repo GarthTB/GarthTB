@@ -2,13 +2,13 @@
 
 ## About Me \| 我是谁
 
-I'm a self-taught non-computer-major student from China 🇨🇳.
+I'm a non-computer-major student from China 🇨🇳.
 
 I love writing C#, and building little tools on Windows.
 
 I like photography, and making MIDI music for piano as well.
 
-一名中国学生，业余代码写手。喜欢用C#写些在Windows上跑的小玩意。
+一名中国学生，业余代码写手。喜欢用C#写些Windows上的小工具。
 
 我也喜欢摄影和制作MIDI钢琴曲。
 
