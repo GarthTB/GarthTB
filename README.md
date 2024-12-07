@@ -33,3 +33,4 @@ I like photography, and making MIDI music for piano as well.
 
 - [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
 - [给照片加边框和水印的工具](https://github.com/GarthTB/FrameMark)
+- [像素值变化曲线](https://github.com/GarthTB/LightCurve)
