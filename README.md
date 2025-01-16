@@ -2,7 +2,7 @@
 
 ## About Me \| 我是谁
 
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthTB&layout=pie" height="272">
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthTB&layout=donut">
 
 I'm a non-computer-major student from China 🇨🇳.
 
