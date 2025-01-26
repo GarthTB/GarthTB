@@ -25,7 +25,7 @@ I like photography, and making MIDI music for piano as well.
 
 ### NLP & IME \| 自然语言处理与输入法
 
-- [盲分词的词频统计器](https://github.com/GarthTB/word_freq_counter)
+- [盲分词的词频统计器](https://github.com/GarthTB/word-freq-counter)
 - [Rime键道的词库管理器](https://github.com/GarthTB/RimeLibrarian)
 - [文章最短码长计算器](https://github.com/GarthTB/CodeLord)
 - [BCC语料库词频爬虫](https://github.com/GarthTB/BCCFreqSpider)
