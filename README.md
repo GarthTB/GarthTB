@@ -27,7 +27,7 @@ I like photography, and making MIDI music for piano as well.
 
 - [盲分词的词频统计器](https://github.com/GarthTB/word-freq-counter)
 - [Rime键道的词库管理器](https://github.com/GarthTB/RimeLibrarian)
-- [文章最短码长计算器](https://github.com/GarthTB/CodeLord)
+- [文章最短码长计算器](https://github.com/GarthTB/CodeRace)
 - [BCC语料库词频爬虫](https://github.com/GarthTB/BCCFreqSpider)
 - [根据词频装填Rime简码的工具](https://github.com/GarthTB/AutoFillCode)
 
