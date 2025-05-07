@@ -33,9 +33,9 @@ I like photography, and making MIDI music for piano as well.
 
 ### Photography \| 摄影
 
+- [先进色空间的饱和度增强工具](https://github.com/GarthTB/PrismPanda)
+- [图片边框工具](https://github.com/GarthTB/FrameSeal)
+- [像素值变化曲线](https://github.com/GarthTB/LightCurve)
 - [简易堆栈工具](https://github.com/GarthTB/fast_image_stacker)
 - [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
 - [傅里叶隐蔽水印工具](https://github.com/GarthTB/FourierWatermark)
-- [给照片加边框和水印的工具](https://github.com/GarthTB/FrameMark)
-- [饱和度增强工具](https://github.com/GarthTB/PrismPanda)
-- [像素值变化曲线](https://github.com/GarthTB/LightCurve)
