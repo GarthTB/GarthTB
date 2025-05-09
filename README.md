@@ -22,6 +22,7 @@ I like photography, and making MIDI music for piano as well.
 
 - [所有钢琴MIDI](https://github.com/GarthTB/Piano-MIDI)
 - [钢琴MIDI的批量预处理工具](https://github.com/GarthTB/TrimMIDI)
+- [Pianoteq音量均衡工具](https://github.com/GarthTB/pianoteq-volume-compensator)
 
 ### NLP & IME \| 自然语言处理与输入法
 
