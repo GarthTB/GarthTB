@@ -26,7 +26,7 @@ I like photography, and making MIDI music for piano as well.
 
 ### NLP & IME \| 自然语言处理与输入法
 
-- [Rime输入法的词库管理器](https://github.com/GarthTB/RimeDictManager)
+- [Rime输入法词库管理器](https://github.com/GarthTB/RimeDictManager)
 - [盲分词的词频统计器](https://github.com/GarthTB/word-freq-statistic)
 - [文章最小当量计算器](https://github.com/GarthTB/code_racer)
 - [BCC语料库词频爬虫](https://github.com/GarthTB/BCCFreqSpider)
@@ -35,7 +35,7 @@ I like photography, and making MIDI music for piano as well.
 ### Photography \| 摄影
 
 - [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
-- [图片水印和边框工具](https://github.com/GarthTB/FrameSeal)
+- [图片边框工具](https://github.com/GarthTB/FrameSeal)
 - [先进色空间的饱和度增强工具](https://github.com/GarthTB/PrismPanda)
 - [图片或视频的像素值变化曲线（C#）](https://github.com/GarthTB/PixelValueCurve)
 - [图片的像素值变化曲线（Rust）](https://github.com/GarthTB/lightness-curve)
