@@ -1,20 +1,20 @@
-# Hello! I'm Garth
+# Hello, I'm Garth!
 
 ## About Me \| 我是谁
 
 <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthTB&layout=donut">
 
-I'm a non-computer-major student from China 🇨🇳.
-
-I love writing C#, and building little tools on Windows.
-
-I like photography, and making MIDI music for piano as well.
+A Chinese student, amateur coder.
 
 一名中国学生，业余代码写手。
 
-喜欢用C#写些Windows上的小工具。
+Enjoys writing small Windows tools in C# and Rust.
 
-我也喜欢摄影和制作MIDI钢琴曲。
+喜欢用 C# 和 Rust 写些Windows上的小工具。
+
+Passionate about photography and making piano MIDI music.
+
+热衷摄影和制作MIDI钢琴曲。
 
 ## Main Projects \| 主要项目
 
@@ -34,9 +34,9 @@ I like photography, and making MIDI music for piano as well.
 
 ### Photography \| 摄影
 
-- [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
 - [图片边框工具](https://github.com/GarthTB/FrameSeal)
-- [先进色空间的饱和度增强工具](https://github.com/GarthTB/PrismPanda)
+- [多种色空间的饱和度调整工具](https://github.com/GarthTB/OkSaturate)
+- [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
 - [图片或视频的像素值变化曲线（C#）](https://github.com/GarthTB/PixelValueCurve)
 - [图片的像素值变化曲线（Rust）](https://github.com/GarthTB/lightness-curve)
 - [简易堆栈工具](https://github.com/GarthTB/fast_image_stacker)
