@@ -34,6 +34,6 @@
 
 - [Rime输入法词库管理器](https://github.com/GarthTB/RimeDictManager)
 - [盲分词的词频统计器](https://github.com/GarthTB/word-freq-statistic)
-- [打字输入文章最小当量计算器](https://github.com/GarthTB/code_racer)
+- [打字输入文章最小开销计算器](https://github.com/GarthTB/BestCode4Txt)
 - [BCC语料库词频爬虫](https://github.com/GarthTB/BCCFreqSpider)
 - [根据词频装填Rime简码](https://github.com/GarthTB/AutoFillCode)
