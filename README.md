@@ -1,39 +1,23 @@
-# Hello, I'm Garth!
+# Hi there 👋, I'm Garth!
 
-## About Me \| 关于我
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarthTB\&layout=compact)
 
-<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarthTB&layout=donut">
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,rust,windows,rider,visualstudio,au,ps,pr)
 
-🎓 University Student (Non-CS major) from China
+> **Minimal Code, Maximal Value.**
 
-💻 C# | 🦀 Rust | 📝 F# (Learning)
+## [MIDIs](https://github.com/GarthTB/Piano-MIDI)
 
-📷 Photography & 🎹 Piano Music Enthusiast
-
-🖥️ Building Windows tools inspired by the arts.
-
-## Main Projects \| 主要项目
-
-### MIDIs
-
-- [所有钢琴MIDI](https://github.com/GarthTB/Piano-MIDI)
-- [钢琴MIDI的批量预处理工具](https://github.com/GarthTB/TrimMIDI)
-- [Pianoteq音量均衡工具](https://github.com/GarthTB/pianoteq-volume-compensator)
-
-### Photography \| 摄影
+## Photography \| 摄影
 
 - [图片边框工具](https://github.com/GarthTB/FrameSeal)
 - [多种色空间的饱和度调整工具](https://github.com/GarthTB/OkSaturate)
-- [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
 - [图片或视频的像素值统计量折线图（C#）](https://github.com/GarthTB/PixelStatsPlotter)
-- [图片像素均值折线图（Rust）](https://github.com/GarthTB/lightness-curve)
-- [简易堆栈工具](https://github.com/GarthTB/fast_image_stacker)
-- [傅里叶隐蔽水印工具](https://github.com/GarthTB/FourierWatermark)
+- [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
 
-### NLP & IME \| 自然语言处理与输入法
+## Input Method \| 输入法
 
 - [Rime输入法词库管理器](https://github.com/GarthTB/RimeDictManager)
+- [动态规划赛码器](https://github.com/GarthTB/ChnDPEncoder)
 - [盲分词的词频统计器](https://github.com/GarthTB/word-freq-statistic)
-- [打字输入文章最小开销计算器](https://github.com/GarthTB/BestCode4Txt)
-- [BCC语料库词频爬虫](https://github.com/GarthTB/BCCFreqSpider)
-- [根据词频装填Rime简码](https://github.com/GarthTB/AutoFillCode)
+- [空明码词库清理工具](https://github.com/GarthTB/KmDictCleaner)
