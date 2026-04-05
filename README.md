@@ -6,6 +6,8 @@
 
 ## [Piano-MIDIs](https://github.com/GarthTB/Piano-MIDI)
 
+- [钢琴MIDI批量修饰工具](https://github.com/GarthTB/PianoMidiLab)
+
 ## Photography \| 摄影
 
 - [图片边框和饱和度工具](https://github.com/GarthTB/GarthImgLab)
