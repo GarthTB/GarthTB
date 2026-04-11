@@ -11,11 +11,11 @@
 ## Photography \| 摄影
 
 - [图片边框和饱和度工具](https://github.com/GarthTB/GarthImgLab)
-- [图片或视频的像素值统计量折线图（C#）](https://github.com/GarthTB/PixelStatsPlotter)
+- [图片或视频的像素值统计量折线图](https://github.com/GarthTB/PixelStatsPlotter)
 - [天文摄影计算器](https://github.com/GarthTB/AstrophotoCalculator)
 
 ## Input Method \| 输入法
 
 - [Rime输入法词库管理器](https://github.com/GarthTB/RimeDictManager)
+- [高性能无词典中文词频计数器](https://github.com/GarthTB/cn-word-freq)
 - [动态规划赛码器](https://github.com/GarthTB/ChnDPEncoder)
-- [盲分词的词频统计器](https://github.com/GarthTB/word-freq-statistic)
