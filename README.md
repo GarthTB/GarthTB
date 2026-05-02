@@ -18,4 +18,4 @@
 
 - [Rime输入法词库管理器](https://github.com/GarthTB/RimeDictManager)
 - [高性能无词典中文词频计数器](https://github.com/GarthTB/cn-word-freq)
-- [动态规划赛码器](https://github.com/GarthTB/ChnDPEncoder)
+- [高性能全局最优打法求解器](https://github.com/GarthTB/cn-input-encode)
